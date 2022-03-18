@@ -1,0 +1,60 @@
+Which is the correct operator for power(xy)?
+X^y
+X**y
+X^^y
+None of the mentioned
+B
+What arithmetic operators cannot be used with strings ?
++
+*
+–
+All of the mentioned
+C
+What is the output when we execute list(“hello”)?
+[‘h’, ‘e’, ‘l’, ‘l’, ‘o’].
+[‘hello’].
+[‘llo’].
+[‘olleh’].
+A
+Which of the following is not a class method?
+Non-static
+Static
+Bounded
+Unbounded
+A
+Which of the following is not a standard exception in Python?
+NameError
+IOError
+AssignmentError
+ValueError
+C
+Which of the following statements is wrong about inheritance?
+Protected members of a class can be inherited
+Private members of a class can be inherited and accessed
+The inheriting class is called a subclass
+Inheritance is one of the features of OOP
+B
+Which of the following best describes polymorphism?
+Ability of a class to derive members of another class as a part of its own definition
+Means of bundling instance variables and methods in order to restrict access to certain class members
+Focuses on variables and passing of variables to functions
+Allows for objects of different types and behaviour to be treated as the same general type
+D
+Which of these is not a fundamental features of OOP?
+Encapsulation
+Inheritance
+Instantiation
+Polymorphism
+C
+Which function is used to read all the characters?
+Read()
+Readcharacters()
+Readall()
+Readchar()
+A
+Which are the advantages of functions in python?
+Reducing duplication of code
+Decomposing complex problems into simpler pieces
+Improving clarity of the code
+All of the mentioned
+DX
